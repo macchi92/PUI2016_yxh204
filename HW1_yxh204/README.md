@@ -4,6 +4,8 @@
 
 **NetID**: yxh204
 
+---
+
 ### Assignment 2
 
 I used the following chain of commands to create a new directory named `PUI2016_yxh204` in my compute environment and the environment variable and alias that come with it.
@@ -21,3 +23,7 @@ echo "PUI2016=/home/cusp/yxh204/PUI2016_yxh204" >> .bash_profile
 echo "alias pui2016='cd $PUI2016'" >> .bash_profile
 source .bash_profile
 ```
+![bash_profile](https://raw.githubusercontent.com/kevinhan0/PUI2016_yxh204/master/HW1_yxh204/bash_profile.png)
+![pwd_commands](https://raw.githubusercontent.com/kevinhan0/PUI2016_yxh204/master/HW1_yxh204/pwd_commands.png)
+
+---
