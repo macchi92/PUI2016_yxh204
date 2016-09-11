@@ -31,7 +31,7 @@ echo "PUI2016=/home/cusp/yxh204/PUI2016_yxh204" >> .bash_profile
 echo "alias pui2016='cd $PUI2016'" >> .bash_profile
 source .bash_profile
 ```
-![bash_profile](https://raw.githubusercontent.com/kevinhan0/PUI2016_yxh204/master/HW1_yxh204/bash_profile.png)
+![bash_profile]
 ![pwd_commands](https://raw.githubusercontent.com/kevinhan0/PUI2016_yxh204/master/HW1_yxh204/pwd_commands.png)
 
 ---
