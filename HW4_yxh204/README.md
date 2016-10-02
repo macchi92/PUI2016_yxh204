@@ -8,7 +8,7 @@
 
 ### Question 1
 
-My partner for this question was Kristi Korsberg. My review for her Citi Bike ideas from homework 3 can be found [here](https://github.com/kevinhan0/PUI2016_kk3374/blob/1847aa364add461bcad3c8e73a2316f6c387e94b/HW3_kk3374/CitibikeReview_yxh204.md).
+My partner for this question was Kristi Korsberg. My review for her Citi Bike ideas from homework 3 can be found [here](https://github.com/kevinhan0/PUI2016_kk3374/blob/1847aa364add461bcad3c8e73a2316f6c387e94b/HW3_kk3374/CitibikeReview_yxh204.md). The original comment can be found [here](https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW4_yxh204/HW4_1_yxh204.md).
 
 ---
 
