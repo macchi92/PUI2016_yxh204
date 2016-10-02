@@ -25,7 +25,7 @@ I worked with Cheng Hou for this question. We discussed about how to read academ
 
 ### Question 3
 
-My answers to question 3 of the homework can be found [here](https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW4_yxh204/HW4_3_yxh204.ipynb).I worked on my own for this question.
+My answers to question 3 of the homework can be found [here](https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW4_yxh204/HW4_3_yxh204.ipynb). I worked on my own for this question.
 
 ---
 
