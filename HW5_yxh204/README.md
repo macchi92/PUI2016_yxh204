@@ -8,19 +8,19 @@
 
 ### Question 1
 
-My answers to this question can be found (here)[https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW5_yxh204/HW5_1_yxh204.ipynb].
+My answers to this question can be found [here](https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW5_yxh204/HW5_1_yxh204.ipynb).
 
 ---
 
 ### Question 2
 
-My answers to this question can be found (here)[https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW5_yxh204/HW5_2_yxh204.ipynb].
+My answers to this question can be found [here](https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW5_yxh204/HW5_2_yxh204.ipynb).
 
 ---
 
 ### Question 3
 
-My answers to this question can also be found (here)[https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW5_yxh204/HW5_3_yxh204.md].
+My answers to this question can also be found [here](https://github.com/kevinhan0/PUI2016_yxh204/blob/master/HW5_yxh204/HW5_3_yxh204.md).
 
 ### Do diets help lose more fat than the exercise?
 
